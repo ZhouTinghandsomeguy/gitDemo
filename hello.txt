@@ -18,3 +18,5 @@ hello 1111111
 hello 3333
 hello 3333333
 hello 333
+-------------
+你好Git hot-fix test
